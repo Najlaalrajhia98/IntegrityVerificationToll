@@ -14,7 +14,7 @@ public class HashGenrator {
 	public static void main(String[] args) {
 			
 				
-				System.out.println("Select am action:");
+				System.out.println("Select am actionsss:");
 				System.out.println("---------------");
 				System.out.println("1) Generate Hashes ");
 				System.out.println("2) Compare Hashinnnng ");
