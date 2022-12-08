@@ -19,6 +19,8 @@ public class HashGenrator {
 				System.out.println("1) Generate Hashes ");
 				System.out.println("2) Compare Hashinnnng ");
 				System.out.println("3) Re-compute Hash ");
+				System.out.println("3) delete ");
+				
 		}
 	}
 
